@@ -8,7 +8,7 @@ app = FastAPI(
 
 fake_users = [
     {"id": 1, "role": "admin", "name": "Bob"},
-    {"id": 2, "role": "developer", "name": "Den"},
+    {"id": 2, "role": "developer", "name": "Denn"},
     {"id": 3, "role": "front_end", "name": "John"},
     {"id": 4, "role": "back_end", "name": "Met"},
     {"id": 5, "role": "full-stack", "name": "Mike"},
